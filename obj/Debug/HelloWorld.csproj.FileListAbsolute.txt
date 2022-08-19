@@ -1,8 +1,0 @@
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\bin\Debug\IronPDFDemo.exe.config
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\bin\Debug\IronPDFDemo.exe
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\bin\Debug\IronPDFDemo.pdb
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\bin\Debug\IronPdf.dll
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\bin\Debug\IronPdf.xml
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\obj\Debug\IronPDFDemo.exe
-C:\Users\jacob\Desktop\IronPdfDemo\src\HelloWorld\obj\Debug\IronPDFDemo.pdb
