@@ -33,7 +33,7 @@ namespace IronPDF_Sample_Project
             ChromePdfRenderer renderer = new ChromePdfRenderer();
 
             // Render a new PdfDocument using an HTML string
-            PdfDocument newPdf = renderer.RenderHtmlAsPdf(SampleHtmlString);
+            PdfDocument newPdf = renderer.RenderHtmlAsPdf(htmlString);
             
             // Save new PDF File
             newPdf.SaveAs("pdf_from_html.pdf");
