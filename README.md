@@ -9,7 +9,7 @@ IronPDF easily handles all these features:
 - And many more! Visit our website to see all our code examples and a full list of our 50+ features
 
 IronPDF also has cross platform support compatibility with:
-- .NET 6 and .NET 5, .NET Core, Standard, and Framework
+- .NET 7 and .NET 6, .NET Core, Standard, and Framework (4.6.2+)
 - Windows, macOS, Linux, Docker, Azure, and AWS
 
 ## Code Example
@@ -59,7 +59,7 @@ public static void UrlToPdfExample(string url)
     // Set Pdf CssMediaType to Screen to get all the background
     renderer.RenderingOptions = new ChromePdfRenderOptions()
     {
-        // Screen vs Print: https://ironpdf.com/tutorials/pixel-perfect-html-to-pdf/#decide-to-use-css-media-type-print-or-screen
+        // Screen vs Print: https://ironpdf.com/how-to/pixel-perfect-html-to-pdf/#1-decide-to-use-css-media-type-print-or-screen
         CssMediaType = PdfCssMediaType.Screen,
         PrintHtmlBackgrounds = true,
         
